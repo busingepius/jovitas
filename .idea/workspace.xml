@@ -5,33 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cd0a8a-3064-496b-8c08-de687d9d6111" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MPP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/img/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/js/vendor/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/webpack.common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/webpack.config.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gegabox/webpack.config.prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kubernetes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kubernetes/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kubernetes/exercies/CKAD-exercises" beforeDir="false" afterPath="$PROJECT_DIR$/../kubernetes/exercies/CKAD-exercises" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +96,8 @@
       <workItem from="1712657088769" duration="918000" />
       <workItem from="1712719009779" duration="1143000" />
       <workItem from="1712743823191" duration="136000" />
+      <workItem from="1712750477055" duration="228000" />
+      <workItem from="1713301679610" duration="1496000" />
     </task>
     <servers />
   </component>

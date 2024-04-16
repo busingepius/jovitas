@@ -12,6 +12,7 @@
   --mainSpacing: 0.25rem;
   --lightShadow: 2px 5px 3px 0px rgba(0, 0, 0, 0.25);
   --darkShadow: 4px 10px 5px 0px rgba(0, 0, 0, 0.5);
+  --borderRadius: 5px;
 }
 /* reset */
 *,
@@ -148,7 +149,7 @@ a {
 @media screen and (min-width: 768px) {
   .hero {
     background: linear-gradient(rgba(63, 208, 212, 0.7), rgba(0, 0, 0, 0.7)),
-      url("../images/main.jpeg") center/cover no-repeat;
+      url("https://res.cloudinary.com/dj8sbqzmv/image/upload/v1713303923/20240412_021618_z8n1nu.jpg") center/cover no-repeat;
   }
   .hero-title {
     font-size: 4.5rem;
